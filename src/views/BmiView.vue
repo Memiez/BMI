@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
+const newLocal = ".focus-color";
 const height = ref(0);
 const weight = ref(0);
 const result = ref(0);
